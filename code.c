@@ -13,8 +13,8 @@
 #include <BlynkSimpleEsp8266.h>
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "varshitha";
-char pass[] = "parupally_01";
+char ssid[] = "Give WiFi ID";
+char pass[] = "Give your password";
 void setup()
 {
 // Debug console
